@@ -15,13 +15,13 @@
 - 👨‍💻 As an Electronics and Communication Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C++, JavaScript, Python, and Networks, or anything related to Application Development and Security.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 I'm also a graphic Designer... check my Portfolio on https://www.behance.net/avraimfahmy1
+- 👨‍💻 I'm also a graphic Designer... check my Portfolio at https://www.behance.net/avraimfahmy1
 
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/avraim-fahmy" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Avr_aim" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/avraim-fahmy" target="_blank"><img src="https://img.shields.io/badge/-Avraim%20Fahmy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/Avr_aim" target="_blank"><img src="https://img.shields.io/badge/-Avraim%20Fahmy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
